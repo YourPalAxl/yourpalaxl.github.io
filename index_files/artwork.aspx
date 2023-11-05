@@ -1,0 +1,271 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<script>
+window.onload = function() {
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const imageName = urlParams.get('image');
+  const title = urlParams.get('title');
+  const description = urlParams.get('description');
+  if (imageName) {
+    const imgElement = document.getElementById('image');
+    imgElement.src = imageName;
+  }
+  if (title) {
+    document.getElementById('title').innerText = title;
+  }
+  if (description) {
+    document.getElementById('description').innerText = description;
+  }
+}
+</script>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+b\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Axl's Cyberspace - Artpiece Summary</title>
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Arial;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	text-align:left;
+	font-family:"Times New Roman";
+	font-size:10.0pt;
+	color:black;}
+ol
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:-2197in;}
+ul
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:-2197in;}
+@page
+	{size:8.-2019in 11.2232in;}
+-->
+</style>
+</head>
+
+<body link="#0066FF" vlink="#6633CC" style='margin:0; background: white'>
+
+<div style='position:absolute;width:14.-2249in;height:12.-374in'>
+<!--[if gte vml 1]><v:rect id="_x0000_s4212" style='position:absolute;left:0;
+ top:0;width:1024.1pt;height:45.48pt;z-index:661;mso-wrap-distance-left:2.88pt;
+ mso-wrap-distance-top:2.88pt;mso-wrap-distance-right:2.88pt;
+ mso-wrap-distance-bottom:2.88pt' fillcolor="#60c" stroked="f" strokecolor="black [0]"
+ o:cliptowrap="t">
+ <v:fill color2="fill darken(118)" rotate="t" angle="-90" method="linear sigma"
+  focus="100%" type="gradient"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata embosscolor="shadow add(51)"/>
+ <v:shadow type="perspective" opacity=".5" origin=",.5" offset="0,0" matrix=",56756f,,-.5"/>
+ <o:extrusion v:ext="view" rotationangle="25,25" viewpoint="0,0"
+  viewpointorigin="0,0" skewangle="0" skewamt="0" lightposition=",-50000"
+  type="perspective"/>
+ <v:path insetpenok="f"/>
+ <v:textbox inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+</v:rect><![endif]--><![if !vml]><span style='position:absolute;z-index:661;
+left:0px;top:0px;width:1365px;height:61px'><img width=1365 height=61
+src=image1555.png v:shapes="_x0000_s4212"></span><![endif]><!--[if gte vml 1]><v:rect
+ id="_x0000_s4213" style='position:absolute;left:731.81pt;top:0;width:272.01pt;
+ height:44.4pt;z-index:662;mso-wrap-distance-left:2.88pt;
+ mso-wrap-distance-top:2.88pt;mso-wrap-distance-right:2.88pt;
+ mso-wrap-distance-bottom:2.88pt' o:preferrelative="t" filled="f" fillcolor="white [7]"
+ stroked="f" strokecolor="black [0]" o:cliptowrap="t">
+ <v:fill color2="white [7]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata src="image303.png" o:title="" cropright="5219f"/>
+ <v:shadow on="t" color="black [0]" opacity=".5" offset="6pt,6pt"/>
+ <v:path o:extrusionok="f" insetpenok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:rect><![endif]--><![if !vml]><span style='position:absolute;z-index:662;
+left:976px;top:0px;width:370px;height:67px'><img width=370 height=67
+src=image1556.png v:shapes="_x0000_s4213"></span><![endif]><!--[if gte vml 1]><v:rect
+ id="_x0000_s4214" style='position:absolute;left:0;top:481.65pt;width:1024.5pt;
+ height:378pt;z-index:663;mso-wrap-distance-left:2.88pt;
+ mso-wrap-distance-top:2.88pt;mso-wrap-distance-right:2.88pt;
+ mso-wrap-distance-bottom:2.88pt' o:preferrelative="t" filled="f" fillcolor="white [7]"
+ stroked="f" strokecolor="black [0]" o:cliptowrap="t">
+ <v:fill color2="white [7]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata src="image642.png" o:title="3256151_yourpalaxl_a-family-photo"
+  croptop="22131f" cropbottom="11168f"/>
+ <v:shadow color="#ccc [4]"/>
+ <v:path o:extrusionok="f" insetpenok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:rect><![endif]--><![if !vml]><span style='position:absolute;z-index:663;
+left:0px;top:642px;width:1366px;height:504px'><img width=1366 height=504
+src=image874.png v:shapes="_x0000_s4214"></span><![endif]><!--[if gte vml 1]><v:rect
+ id="_x0000_s4215" style='position:absolute;left:0;top:480pt;width:1024.5pt;
+ height:108pt;z-index:664;mso-wrap-distance-left:2.88pt;
+ mso-wrap-distance-top:2.88pt;mso-wrap-distance-right:2.88pt;
+ mso-wrap-distance-bottom:2.88pt' stroked="f" strokecolor="black [0]"
+ o:cliptowrap="t">
+ <v:fill color2="fill darken(118)" o:opacity2="0" rotate="t" method="linear sigma"
+  focus="100%" type="gradient"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:path insetpenok="f"/>
+ <v:textbox inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+</v:rect><![endif]--><![if !vml]><span style='position:absolute;z-index:664;
+left:0px;top:640px;width:1366px;height:144px'><img width=1366 height=144
+src=image1559.png v:shapes="_x0000_s4215"></span><![endif]><!--[if gte vml 1]><v:rect
+ id="_x0000_s4216" style='position:absolute;left:0;top:660pt;width:1024.5pt;
+ height:210pt;rotation:180;z-index:665;mso-wrap-distance-left:2.88pt;
+ mso-wrap-distance-top:2.88pt;mso-wrap-distance-right:2.88pt;
+ mso-wrap-distance-bottom:2.88pt' stroked="f" strokecolor="black [0]"
+ o:cliptowrap="t">
+ <v:fill color2="fill darken(118)" o:opacity2="0" rotate="t" method="linear sigma"
+  focus="100%" type="gradient"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:path insetpenok="f"/>
+ <v:textbox inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+</v:rect><![endif]--><![if !vml]><span style='position:absolute;z-index:665;
+left:0px;top:880px;width:1366px;height:280px'><img width=1366 height=280
+src=image1560.png v:shapes="_x0000_s4216"></span><![endif]><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+ <v:stroke joinstyle="miter"/>
+ <v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype><v:shape id="_x0000_s4217" type="#_x0000_t202" style='position:absolute;
+ left:0;top:870pt;width:1024.5pt;height:24pt;z-index:666;
+ mso-wrap-distance-left:2.88pt;mso-wrap-distance-top:2.88pt;
+ mso-wrap-distance-right:2.88pt;mso-wrap-distance-bottom:2.88pt' filled="f"
+ fillcolor="white [7]" stroked="f" strokecolor="black [0]" o:cliptowrap="t">
+ <v:fill color2="white [7]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:path insetpenok="f"/>
+ <v:textbox style='mso-column-margin:2mm' inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+</v:shape><![endif]--><![if !vml]><span style='position:absolute;z-index:666;
+left:0px;top:1160px;width:1366px;height:32px'>
+
+<table cellpadding=0 cellspacing=0>
+ <tr>
+  <td width=1366 height=32 style='vertical-align:top'><![endif]>
+  <div v:shape="_x0000_s4217" style='padding:2.88pt 2.88pt 2.88pt 2.88pt'
+  class=shape>
+  <p class=MsoNormal style='text-align:center;text-align:center'><span
+  lang=en-GB style='font-size:12.0pt;font-family:Arial;font-weight:bold;
+  language:en-GB'>| Created by Axl Woodland | Last Update: November 4th, 2023 |</span></p>
+  </div>
+  <![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]><!--[if gte vml 1]><v:rect id="_x0000_s4218" style='position:absolute;
+ left:23.81pt;top:2.27pt;width:201pt;height:40.41pt;z-index:667;
+ mso-wrap-distance-left:2.88pt;mso-wrap-distance-top:2.88pt;
+ mso-wrap-distance-right:2.88pt;mso-wrap-distance-bottom:2.88pt'
+ o:preferrelative="t" filled="f" fillcolor="white [7]" stroked="f"
+ strokecolor="black [0]" o:cliptowrap="t">
+ <v:fill color2="white [7]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata src="image1554.png" o:title=""/>
+ <v:shadow color="#ccc [4]"/>
+ <v:path o:extrusionok="f" insetpenok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:rect><![endif]--><![if !vml]><span style='position:absolute;z-index:667;
+left:32px;top:3px;width:268px;height:54px'><img width=268 height=54
+src=image15541.png v:shapes="_x0000_s4218"></span><![endif]><!--[if gte vml 1]><![if mso]><v:rect
+ id="_x0000_s4219" style='position:absolute;left:48pt;top:84pt;width:354pt;
+ height:252pt;z-index:668' filled="f" stroked="f" insetpen="t" o:cliptowrap="t">
+ <v:path insetpenok="f"/>
+ <o:lock v:ext="edit" rotation="t"/>
+ <o:webcomponent v:ext="edit" o:html="&lt;img id=&quot;image&quot; style=&quot;height: 100%&quot;&gt;"
+  o:on="t"/>
+</v:rect><![endif]><![endif]-->
+
+<div style='position:absolute;margin-left:64px;margin-top:112px;width:472px;
+height:336px;z-index:668'><img id="image" style="height: 100%"></div>
+
+<!--[if gte vml 1]><![if mso]><v:rect id="_x0000_s4220" style='position:absolute;
+ left:426pt;top:90pt;width:456pt;height:84pt;z-index:669' filled="f" stroked="f"
+ insetpen="t" o:cliptowrap="t">
+ <v:path insetpenok="f"/>
+ <o:lock v:ext="edit" rotation="t"/>
+ <o:webcomponent v:ext="edit" o:html="&lt;h2 id=&quot;title&quot; style=&quot;margin-bottom: 0; font-size:26.0pt;&#13;&#10;  font-family: Arial Black&quot;&gt;&lt;/h2&gt;"
+  o:on="t"/>
+</v:rect><![endif]><![endif]-->
+
+<div style='position:absolute;margin-left:568px;margin-top:120px;width:608px;
+height:112px;z-index:669'><h2 id="title" style="margin-bottom: 0; color:#000000; font-size:26.0pt;
+  font-family: Arial Black"; color: black></h2></div>
+
+<!--[if gte vml 1]><![if mso]><v:rect id="_x0000_s4221" style='position:absolute;
+ left:426pt;top:174pt;width:408pt;height:240pt;z-index:670' filled="f"
+ stroked="f" insetpen="t" o:cliptowrap="t">
+ <v:path insetpenok="f"/>
+ <o:lock v:ext="edit" rotation="t"/>
+ <o:webcomponent v:ext="edit" o:html="&lt;figcaption id=&quot;description&quot; style=&quot;font-family: Arial&gt;&lt;/figcaption&gt;"
+  o:on="t"/>
+</v:rect><![endif]><![endif]-->
+
+<div style='position:absolute;margin-left:568px;margin-top:232px;width:544px;
+height:320px;z-index:670'><figcaption id="description" style="font-family: Arial; color:#000000"></figcaption></div>
+
+
+</div>
+
+</body>
+
+</html>
