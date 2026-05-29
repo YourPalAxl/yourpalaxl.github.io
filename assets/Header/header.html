@@ -1,0 +1,97 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Axl&#39;s Cyberspace - Header</title>
+
+<script>
+var x,y
+var step=20
+var flag=0
+var message="hello there!"
+message=message.split("")
+var xpos=new Array()
+for (i=0;i<=message.length-1;i++) {
+    xpos[i]=-50
+}
+var ypos=new Array()
+for (i=0;i<=message.length-1;i++) {
+    ypos[i]=-50
+}
+function handlerMM(e){
+    x = (document.layers) ? e.pageX : document.body.scrollLeft+event.clientX
+    y = (document.layers) ? e.pageY : document.body.scrollTop+event.clientY
+    flag=1
+}
+function makesnake() {
+    if (flag==1 && document.all) {
+    for (i=message.length-1; i>=1; i--) {
+            xpos[i]=xpos[i-1]+step
+            ypos[i]=ypos[i-1]
+    }
+        xpos[0]=x+step
+        ypos[0]=y
+    
+        for (i=0; i<message.length-1; i++) {
+        var thisspan = eval("span"+(i)+".style")
+        thisspan.posLeft=xpos[i]
+            thisspan.posTop=ypos[i]
+    }
+    }
+    
+    else if (flag==1 && document.layers) {
+    for (i=message.length-1; i>=1; i--) {
+            xpos[i]=xpos[i-1]+step
+            ypos[i]=ypos[i-1]
+    }
+        xpos[0]=x+step
+        ypos[0]=y
+    
+        for (i=0; i<message.length-1; i++) {
+        var thisspan = eval("document.span"+i)
+        thisspan.left=xpos[i]
+            thisspan.top=ypos[i]
+    }
+    }
+        var timer=setTimeout("makesnake()",30)
+}
+</script>
+
+<base target="contents">
+</head>
+
+<body text="#FF6600" bgcolor="#000000">
+
+<p align="right"><i><font face="Arial Black" size="5">
+<img border="0" src="nonfade.gif" width="88" height="31" align="left"></font></i></p>
+<!-- The "Axl's Cyberspace" title, followed by the ActiveX control that gives a random tagline from the list below. -->
+<p align="right"><i><font face="Arial Black" size="5">
+Axl&#39;s 
+Cyberspace, </font><font face="Arial Black">
+<SCRIPT LANGUAGE="JAVASCRIPT">
+
+var r_text = new Array (); 
+r_text[0] = "The Danger Zone."; 
+r_text[1] = "Viona's Information Superhighway."; 
+r_text[2] = "The stellar route of the internet."; 
+r_text[3] = "Est. 2019";  
+r_text[4] = "Where obsolecense doesn't exist."; 
+r_text[5] = "The modern-free zone."; 
+r_text[6] = "Spreading our wings in the stars.";
+r_text[7] = "Doing stuff the old way.";
+r_text[8] = "A wolf in space.";
+r_text[9] = "Where do YOU want to go today?";
+r_text[10] = "Home of the interplanetary tea drinker.";
+r_text[11] = "Live from the Cerestix System.";
+r_text[12] = "Greetings from the planet Viona.";
+
+var i = Math.floor(r_text.length * Math.random()); 
+
+document.write("<FONT COLOR='#FF6600'>" + 
+r_text[i]  + "</FONT>"); 
+
+</script> </font></i></p>
+
+</body>
+
+</html>
