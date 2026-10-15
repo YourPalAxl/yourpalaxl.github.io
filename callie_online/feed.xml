@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Callie Online</title>
+    <link>http://www.yourpalaxl.com/callie_online/</link>
+    <description>The Vionan Route Of The Information Superhighway</description>
+    <language>en-gb</language>
+    <atom:link href="http://www.yourpalaxl.com/callie_online/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:author>
+      <atom:name>Axl Woodland</atom:name>
+    </atom:author>
+    <lastBuildDate>Tue, 06 Oct 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Machine</title>
+      <link>http://www.yourpalaxl.com/callie_online/archive/2026/04/printable/machine.gif</link>
+      <guid isPermaLink="true">http://www.yourpalaxl.com/callie_online/archive/2026/04/printable/machine.gif</guid>
+      <pubDate>Tue, 06 Oct 2026 02:39:23 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href="http://www.yourpalaxl.com/callie_online/archive/2026/04/printable/machine.gif"&gt;&lt;img src="http://www.yourpalaxl.com/callie_online/archive/2026/04/printable/machine.gif"&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="http://www.yourpalaxl.com/callie_online/archive/2026/04/printable/machine.gif" length="261321" type="image/gif" />
+    </item>
+    <item>
+      <title>Think</title>
+      <link>http://www.yourpalaxl.com/callie_online/archive/2026/03/printable/think.gif</link>
+      <guid isPermaLink="true">http://www.yourpalaxl.com/callie_online/archive/2026/03/printable/think.gif</guid>
+      <pubDate>Tue, 06 Oct 2026 02:39:23 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href="http://www.yourpalaxl.com/callie_online/archive/2026/03/printable/think.gif"&gt;&lt;img src="http://www.yourpalaxl.com/callie_online/archive/2026/03/printable/think.gif"&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="http://www.yourpalaxl.com/callie_online/archive/2026/03/printable/think.gif" length="2660" type="image/gif" />
+    </item>
+  </channel>
+</rss>
