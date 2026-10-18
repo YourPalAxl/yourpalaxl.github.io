@@ -9,7 +9,52 @@
     <atom:author>
       <atom:name>Axl Woodland</atom:name>
     </atom:author>
-    <lastBuildDate>Sun, 11 Oct 2026 23:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:19:31 +0100</lastBuildDate>
+    <item>
+      <title>Turning a desktop into a IIGS and Amiga, in a loose term</title>
+      <link>http://www.yourpalaxl.com/posts/181026.htm</link>
+      <guid isPermaLink="true">http://www.yourpalaxl.com/posts/181026.htm</guid>
+      <pubDate>Sun, 18 Oct 2026 21:19:31 +0100</pubDate>
+      <description>&lt;p&gt;&lt;i&gt;&lt;font face="Arial Black" size="7"&gt;News&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;font face="Arial Black" color="#FF6600"&gt;Introducing RSS! - Entry 
+Date: 18th October 2026&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;
+Hello! This site now has an amazing little feature for those who wish to keep up 
+to date with my posts here: RSS!&lt;/p&gt;
+&lt;p&gt;
+With some help, there are now 2 RSS feeds operational for this site! One is set 
+up to allow you to keep up-to-date&lt;br&gt;
+with any posts I make in the News section of this site!&lt;br&gt;
+...If in the very low chance you have that amount of interest.&lt;/p&gt;
+&lt;p&gt;
+The second though I feel has a much better chance of your use. It's gonna be 
+used for Callie/Online! If you've read my recent posts&lt;br&gt;
+then you should hopefully know what Callie/Online is, but if not, it's my 
+webcomic project! go and check it out! Just click&lt;br&gt;
+the Callie/Online button in the sidebar! If the RSS is working correctly, it 
+should notify subscribers when I release a new strip!&lt;/p&gt;
+&lt;p&gt;
+I have tested the RSS feeds myself and they seem to work in&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Opera Mini 4 (Samsung SGH-E900)&lt;/li&gt;
+	&lt;li&gt;Mozilla Thunderbird&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Now it's time to give thanks. I want to give a huge thanks to TReKiE for the 
+huge amount of assistance in getting RSS working!&lt;br&gt;
+He developed the python RSS generation scripts, and helped me integrate them 
+into the website.&lt;br&gt;
+In other words, he did most of the work, hehe.&lt;/p&gt;
+&lt;p&gt;
+It's easy to find where RSS feeds are available. Look for this badge on the 
+webpage, It should take you to the respective RSS Feed:&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img border="0" src="http://www.yourpalaxl.com/posts/assets/rss.jpg" width="320" height="238"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href="http://www.yourpalaxl.com/assets/Body/bodynews.htm"&gt;Other News...&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Turning a desktop into a IIGS and Amiga, in a loose term</title>
       <link>http://www.yourpalaxl.com/posts/111026.htm</link>
